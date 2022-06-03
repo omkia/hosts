@@ -1,0 +1,2 @@
+# hosts
+ block adware,... hosts
