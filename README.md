@@ -2,7 +2,7 @@
  block adware,... hosts
  
  
-##Windows users
+## Windows users
 
 In Windows 10 the hosts file is located at c:\Windows\System32\Drivers\etc\hosts.
 
@@ -43,7 +43,7 @@ domain or by browsing to https://your-domain-name.com:8443. This will open up th
  
  especially if both the old and new version of the site are hosted with Nublue.
  
- ##UBUNTU users
+ ## UBUNTU users
  
  Now that you know what the syntax is for each line in the hosts file, we can now show you how to edit it.
 
@@ -123,7 +123,7 @@ PING helloworld (192.168.0.193) 56(84) bytes of data.
 
 In our case, you can see that our hostname, “helloworld” is successfully being routed to the IP we specified.
 
-##Mac users
+## Mac users
 
 If you’re on a Mac, the changes you’ll need to make to your hosts file are identical but the process for editing
 
